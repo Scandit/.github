@@ -1,7 +1,5 @@
-This is the official GitHub repository of [Scandit](http://www.scandit.com).
-
-### Samples
-Please see also the [developer section](https://www.scandit.com/developers/) for the SDK documentation.
+### Samples Overview
+See also the [developer section](https://www.scandit.com/developers/) for the SDK documentation.
 
 #### Mobile Native Samples
 * [Android](https://github.com/Scandit/datacapture-android-samples) ([guide](https://docs.scandit.com/data-capture-sdk/android/samples/run-samples.html))
