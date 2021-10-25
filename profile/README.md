@@ -1,0 +1,10 @@
+## Samples
+* [Android](https://github.com/Scandit/datacapture-android-samples)
+* [iOS](https://github.com/Scandit/datacapture-android-samples)
+* [Xamarin](https://github.com/Scandit/datacapture-xamarin-samples)
+* [Xamarin Forms](https://github.com/Scandit/datacapture-xamarin-forms-samples)
+* [Cordova](https://github.com/Scandit/datacapture-cordova-samples)
+* [Capacitor](https://github.com/Scandit/datacapture-capacitor-samples)
+* [Flutter](https://github.com/Scandit/datacapture-flutter-samples)
+* [React Native](https://github.com/Scandit/datacapture-react-native-samples)
+* [Titanium](https://github.com/Scandit/datacapture-titanium-samples)
