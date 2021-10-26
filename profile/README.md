@@ -3,7 +3,7 @@ See also the [developer section](https://www.scandit.com/developers/) for the SD
 
 #### Mobile Native Samples
 * [Android](https://github.com/Scandit/datacapture-android-samples) ([guide](https://docs.scandit.com/data-capture-sdk/android/samples/run-samples.html))
-* [iOS](https://github.com/Scandit/datacapture-android-samples) ([guide](https://docs.scandit.com/data-capture-sdk/ios/samples/run-samples.html))
+* [iOS](https://github.com/Scandit/datacapture-ios-samples) ([guide](https://docs.scandit.com/data-capture-sdk/ios/samples/run-samples.html))
 
 #### WebSDK Samples
 * [WebSDK](https://github.com/Scandit/barcodescanner-sdk-for-web-samples)
