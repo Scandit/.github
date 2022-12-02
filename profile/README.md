@@ -6,7 +6,7 @@ See also the [developer section](https://www.scandit.com/developers/) for the SD
 * [iOS](https://github.com/Scandit/datacapture-ios-samples) ([guide](https://docs.scandit.com/data-capture-sdk/ios/samples/run-samples.html))
 
 #### WebSDK Samples
-* [WebSDK](https://github.com/Scandit/barcodescanner-sdk-for-web-samples)
+* [WebSDK](https://github.com/Scandit/datacapture-web-samples)
 
 #### Mobile Framework Samples
 * [Xamarin](https://github.com/Scandit/datacapture-xamarin-samples) ([guide](https://docs.scandit.com/data-capture-sdk/xamarin.ios/samples/run-samples.html)) & [Xamarin Forms](https://github.com/Scandit/datacapture-xamarin-forms-samples) ([guide](https://docs.scandit.com/data-capture-sdk/xamarin.forms/samples/run-samples.html))
