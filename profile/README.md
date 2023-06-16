@@ -10,7 +10,7 @@ Scandit offers building blocks that can be integrated in just a few lines of cod
 
 SparkScan is a camera-based solution for high-speed single scanning and scan-intensive workflows. It includes an out-of-the-box UI optimized for an efficient and frictionless user experience.
 
-![SparkScan](https://github.com/Scandit/.github/blob/main/images/SparkScan.png)
+![SparkScan](../images/SparkScan.png)
 
 - **List Building Sample** ([iOS](https://github.com/Scandit/datacapture-ios-samples/tree/master/ListBuildingSample), [Android](https://github.com/Scandit/datacapture-android-samples/tree/master/ListBuildingSample), [React Native](https://github.com/Scandit/datacapture-react-native-samples/tree/master/ListBuildingSample), Xamarin ([Forms](https://github.com/Scandit/datacapture-xamarin-forms-samples/tree/master/ListBuildingSample), [iOS](https://github.com/Scandit/datacapture-xamarin-samples/tree/master/ios/ListBuildingSample), [Android](https://www.notion.so/Scandit-Samples-2246395c6e4146458347ebb7a7f5624f?pvs=21)))
 
