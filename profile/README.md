@@ -20,7 +20,7 @@ SparkScan is a camera-based solution for high-speed single scanning and scan-int
 
 MatrixScan Count is an out-of-the-box scan and count solution for counting and receiving multiple items at once, in which user interface (UI) elements and interactions are built into a workflow.
 
-![Untitled](https://github.com/Scandit/.github/blob/main/images/MSCount.png)
+![Untitled](/images/MSCount.png)
 
 - **MatrixScan Count Simple Sample** ([iOS](https://github.com/Scandit/datacapture-ios-samples/tree/master/MatrixScanCountSimpleSample), [Android](https://github.com/Scandit/datacapture-android-samples/tree/master/MatrixScanCountSimpleSample), [Flutter](https://github.com/Scandit/datacapture-flutter-samples/tree/master/MatrixScanCountSimpleSample), Xamarin ([Android](https://github.com/Scandit/datacapture-xamarin-samples/tree/master/android/MatrixScanCountSimpleSample), [iOS](https://github.com/Scandit/datacapture-xamarin-samples/tree/master/ios/MatrixScanCountSimpleSample))
 
@@ -32,7 +32,7 @@ MatrixScan Count is an out-of-the-box scan and count solution for counting and r
 
 MatrixScan Find is a pre-built component that uses AR overlays to highlight items that match predefined criteria. 
 
-![MSFind](https://github.com/Scandit/.github/blob/main/images/MSFind.png)
+![MSFind](/images/MSFind.png)
 
 - **Seach  & Find Sample** ([iOS](https://github.com/Scandit/datacapture-ios-samples/tree/master/SearchAndFindSample), [Android](https://github.com/Scandit/datacapture-android-samples/tree/master/SearchAndFindSample)) 
 
@@ -44,12 +44,12 @@ Consider Barcode Selection when **accuracy** is more important than **speed
 
 - **Aim to Select** allows you to select one barcode at a time using an aimer, and tapping to confirm the selection. It is especially convenient for one-handed operation.
     
-    ![AimToSelect](https://github.com/Scandit/.github/blob/main/images/AimToSelect.png)
+    ![AimToSelect](/images/AimToSelect.png)
     
 
 - **Tap to select** is quicker when you need to select several barcodes, as demonstrated by the **Catalog Reordering Sample** (yep, those are teeth).
     
-    ![TapToSelect](https://github.com/Scandit/.github/blob/main/images/TapToSelect.png)
+    ![TapToSelect](/images/TapToSelect.png)
     
 
 - **Barcode Selection Simple Sample** ([Cordova](https://github.com/Scandit/datacapture-cordova-samples/tree/master/BarcodeSelectionSimpleSample), [Flutter](https://github.com/Scandit/datacapture-flutter-samples/tree/master/BarcodeSelectionSimpleSample), [React Native](https://github.com/Scandit/datacapture-react-native-samples/tree/master/BarcodeSelectionSimpleSample), Xamarin ([Forms](https://github.com/Scandit/datacapture-xamarin-forms-samples/tree/master/BarcodeSelectionSimpleSample), [iOS](https://github.com/Scandit/datacapture-xamarin-samples/tree/master/ios/BarcodeSelectionSimpleSample), [Android](https://github.com/Scandit/datacapture-xamarin-samples/tree/master/android/BarcodeSelectionSimpleSample)), .NET ([iOS](https://github.com/Scandit/datacapture-dotnet-samples/tree/master/ios/BarcodeSelectionSimpleSample), [Android](https://github.com/Scandit/datacapture-dotnet-samples/tree/master/android/BarcodeSelectionSimpleSample), [Maui](https://github.com/Scandit/datacapture-dotnet-samples/tree/master/maui/BarcodeSelectionSimpleSample)), [Capacitor](https://github.com/Scandit/datacapture-capacitor-samples/tree/master/BarcodeSelectionSimpleSample))
@@ -66,7 +66,7 @@ The fully-flexible API provides the camera interface, viewfinders and minimal gu
 
 ID Scanning Samples demonstrate the features of the ID Capture API and demonstrate workflows such as Age Verified Delivery and US Drivers’ License Verification.
 
-![Untitled](https://github.com/Scandit/.github/blob/main/images/IDScanning.png)
+![Untitled](/images/IDScanning.png)
 
 **ID Capture Simple Sample** ([iOS](https://github.com/Scandit/datacapture-cordova-samples/tree/master/IdCaptureSimpleSample), [Android](https://github.com/Scandit/datacapture-android-samples/tree/master/IdCaptureSimpleSample), [Web](https://github.com/Scandit/datacapture-web-samples/tree/master/IdCaptureSimpleSample), [Flutter](https://github.com/Scandit/datacapture-flutter-samples/tree/master/IdCaptureSimpleSample), Xamarin ([Forms](https://github.com/Scandit/datacapture-xamarin-forms-samples/tree/master/IdCaptureSimpleSample), [iOS](https://github.com/Scandit/datacapture-xamarin-samples/tree/master/ios/IdCaptureSimpleSample), [Android](https://github.com/Scandit/datacapture-xamarin-samples/tree/master/android/IdCaptureSimpleSample)), .NET ([Android](https://github.com/Scandit/datacapture-dotnet-samples/tree/master/android/IdCaptureSimpleSample), [iOS](https://github.com/Scandit/datacapture-dotnet-samples/tree/master/ios/IdCaptureSimpleSample), [Maui](https://github.com/Scandit/datacapture-dotnet-samples/tree/master/maui/IdCaptureSimpleSample)), [Capacitor](https://github.com/Scandit/datacapture-capacitor-samples/tree/master/IdCaptureSimpleSample)
 
