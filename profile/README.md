@@ -12,7 +12,7 @@ SparkScan is a camera-based solution for high-speed single scanning and scan-int
 
 ![SparkScan](/images/SparkScan.png)
 
-- **List Building Sample** ([iOS](https://github.com/Scandit/datacapture-ios-samples/tree/master/ListBuildingSample), [Android](https://github.com/Scandit/datacapture-android-samples/tree/master/ListBuildingSample), [React Native](https://github.com/Scandit/datacapture-react-native-samples/tree/master/ListBuildingSample), Xamarin ([Forms](https://github.com/Scandit/datacapture-xamarin-forms-samples/tree/master/ListBuildingSample), [iOS](https://github.com/Scandit/datacapture-xamarin-samples/tree/master/ios/ListBuildingSample), [Android](https://www.notion.so/Scandit-Samples-2246395c6e4146458347ebb7a7f5624f?pvs=21)))
+- **List Building Sample** ([iOS](https://github.com/Scandit/datacapture-ios-samples/tree/master/ListBuildingSample), [Android](https://github.com/Scandit/datacapture-android-samples/tree/master/ListBuildingSample), [React Native](https://github.com/Scandit/datacapture-react-native-samples/tree/master/ListBuildingSample), Xamarin ([Forms](https://github.com/Scandit/datacapture-xamarin-forms-samples/tree/master/ListBuildingSample), [iOS](https://github.com/Scandit/datacapture-xamarin-samples/tree/master/ios/ListBuildingSample), [Android](https://github.com/Scandit/datacapture-xamarin-samples/tree/master/android/ListBuildingSample)))
 
 - **ReceivingSample** ([iOS](https://github.com/Scandit/datacapture-ios-samples/tree/master/ReceivingSample), [Android](https://github.com/Scandit/datacapture-android-samples/tree/master/ReceivingSample))
 
@@ -26,7 +26,7 @@ MatrixScan Count is an out-of-the-box scan and count solution for counting and r
 
 - **Receiving Sample** ([iOS](https://github.com/Scandit/datacapture-ios-samples/tree/master/ReceivingSample), [Android](https://github.com/Scandit/datacapture-android-samples/tree/master/ReceivingSample))
 
-- **Expiry Management Sample** ([iOS](https://www.notion.so/Scandit-Samples-2246395c6e4146458347ebb7a7f5624f?pvs=21), [Android](https://github.com/Scandit/datacapture-android-samples/tree/master/ExpiryManagementSample))
+- **Expiry Management Sample** ([iOS](https://github.com/Scandit/datacapture-ios-samples/tree/master/ExpiryManagementSample), [Android](https://github.com/Scandit/datacapture-android-samples/tree/master/ExpiryManagementSample))
 
 ### **MatrixScan Find Samples**
 
@@ -38,7 +38,7 @@ MatrixScan Find is a pre-built component that uses AR overlays to highlight item
 
 ### Barcode Selection Samples
 
-Barcode Selection is a pre-built component that provides a UI for selecting the right code when codes are crowded (and cannot be selected programmatically, see [Barcode Reject Samples](https://www.notion.so/Scandit-Samples-2246395c6e4146458347ebb7a7f5624f?pvs=21))
+Barcode Selection is a pre-built component that provides a UI for selecting the right code when codes are crowded (and cannot be selected programmatically, see Barcode Reject Samples.
 
 Consider Barcode Selection when **accuracy** is more important than **speed**.
 
