@@ -123,7 +123,7 @@ MRZ Scanner Sample ([Android](https://github.com/Scandit/datacapture-android-sam
 
 The Scandit Data Capture SDK documentation can be found here:
 
-[iOS](https://docs.scandit.com/sdks/ios/add-sdk), [Android,](https://docs.scandit.com/sdks/android/add-sdk) [Web](https://docs.scandit.com/sdks/web/add-sdk), [Cordova](https://docs.scandit.com/sdks/cordova/add-sdk), Xamarin ([iOS](https://docs.scandit.com/sdks/xamarin.ios/add-sdk), [Android](https://docs.scandit.com/sdks/xamarin.android/add-sdk), [Forms](https://docs.scandit.com/sdks/xamarin.forms/add-sdk)), .NET ([iOS](https://docs.scandit.com/sdks/dotnet.ios/add-sdk), [Android](https://docs.scandit.com/sdks/dotnet.android/add-sdk)), [React Native](https://docs.scandit.com/sdks/react-native/add-sdk), [Flutter,](https://docs.scandit.com/sdks/flutter/add-sdk) [Capacitor,](https://docs.scandit.com/sdks/capacitor/add-sdk) [Titanium](https://docs.scandit.com/sdks/titanium/add-sdk)
+[iOS](https://docs.scandit.com/sdks/ios/add-sdk), [Android,](https://docs.scandit.com/sdks/android/add-sdk) [Web](https://docs.scandit.com/sdks/web/add-sdk), [Cordova](https://docs.scandit.com/sdks/cordova/add-sdk), Xamarin ([iOS](https://docs.scandit.com/sdks/xamarin/ios/add-sdk), [Android](https://docs.scandit.com/sdks/xamarin/android/add-sdk), [Forms](https://docs.scandit.com/sdks/xamarin/forms/add-sdk)), .NET ([iOS](https://docs.scandit.com/sdks/net/ios/add-sdk), [Android](https://docs.scandit.com/sdks/net/android/add-sdk)), [React Native](https://docs.scandit.com/sdks/react-native/add-sdk), [Flutter,](https://docs.scandit.com/sdks/flutter/add-sdk) [Capacitor,](https://docs.scandit.com/sdks/capacitor/add-sdk) [Titanium](https://docs.scandit.com/sdks/titanium/add-sdk)
 
 ## Trial Signup
 
