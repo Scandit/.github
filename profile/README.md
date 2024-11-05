@@ -34,7 +34,7 @@ MatrixScan Find is a pre-built component that uses AR overlays to highlight item
 
 ![MSFind](/images/MSFind.png)
 
-- **Seach  & Find Sample** ([iOS](https://github.com/Scandit/datacapture-ios-samples/tree/master/SearchAndFindSample), [Android](https://github.com/Scandit/datacapture-android-samples/tree/master/SearchAndFindSample)), [React Native](https://github.com/Scandit/datacapture-react-native-samples/tree/master/SearchAndFindSample), .NET ([iOS](https://github.com/Scandit/datacapture-dotnet-samples/tree/master/ios/SearchAndFindSample), [Android](https://github.com/Scandit/datacapture-dotnet-samples/tree/master/android/SearchAndFindSample), [MAUI](https://github.com/Scandit/datacapture-dotnet-samples/tree/master/maui/SearchAndFindSample)) 
+- **Seach  & Find Sample** ([iOS](https://github.com/Scandit/datacapture-ios-samples/tree/master/SearchAndFindSample), [Android](https://github.com/Scandit/datacapture-android-samples/tree/master/SearchAndFindSample)), [React Native](https://github.com/Scandit/datacapture-react-native-samples/tree/master/SearchAndFindSample), [Web](https://github.com/Scandit/datacapture-web-samples/tree/master/SearchAndFindSample), .NET ([iOS](https://github.com/Scandit/datacapture-dotnet-samples/tree/master/ios/SearchAndFindSample), [Android](https://github.com/Scandit/datacapture-dotnet-samples/tree/master/android/SearchAndFindSample), [MAUI](https://github.com/Scandit/datacapture-dotnet-samples/tree/master/maui/SearchAndFindSample)) 
 
 ### Barcode Selection Samples
 
