@@ -2,7 +2,7 @@
 
 This repository contains both simple and advanced samples that show how you can use various features of the Scandit Data Capture SDK. The simple samples allow you to get going quickly, while the advanced samples show you how to use additional settings and setup the scanner for the best performance and user experience.
 
-For details about all available samples, see the documentation for your preferred framework:
+For details about all available samples, check the link to your preferred framework:
 
 * [iOS](https://github.com/Scandit/datacapture-ios-samples)
 * [Android](https://github.com/Scandit/datacapture-android-samples)
