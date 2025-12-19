@@ -25,3 +25,8 @@ Our support engineers can be reached at [support@scandit.com](mailto:support@sca
 ## License
 
 [Apache 2.0](http://www.apache.org/licenses/LICENSE-2.0)
+
+<br/><br/><br/><br/><br/><br/>
+
+Copyright © Scandit AG
+Scandit's products are patent protected. Details at [scandit.com/patents](https://scandit.com/patents)
