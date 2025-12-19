@@ -29,4 +29,5 @@ Our support engineers can be reached at [support@scandit.com](mailto:support@sca
 <br/><br/><br/><br/><br/><br/>
 
 Copyright © Scandit AG
+
 Scandit's products are patent protected. Details at [scandit.com/patents](https://scandit.com/patents)
