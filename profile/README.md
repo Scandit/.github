@@ -18,6 +18,14 @@ For details about all available samples, check the link to your preferred framew
 
 To add the Scandit Data Capture SDK to your app, [sign up for your Scandit Developer Account](https://ssl.scandit.com/dashboard/sign-up?p=test) and get instant access to your license key.
 
+## Agent Skills
+
+If you're building a Scandit integration with help from an AI coding assistant (Claude Code, Cursor, Copilot, Codex), our Agent Skills give the assistant the context it needs to get the scaffolding right: dependencies, license setup, capabilities, framework boilerplate, and the gotchas we keep seeing in the wild. One skill per product, on every framework we support.
+
+Works equally well on a fresh project or on top of one of the samples above.
+
+Source and install instructions: [github.com/scandit/skills](https://github.com/scandit/skills)
+
 ## Support
 
 Our support engineers can be reached at [support@scandit.com](mailto:support@scandit.com).
